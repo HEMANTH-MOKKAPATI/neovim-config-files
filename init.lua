@@ -1,0 +1,5 @@
+--require "plugin"
+require "keymaps"
+require "options"
+require "Lazy"
+-- require "lsp"
